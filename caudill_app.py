@@ -59,7 +59,7 @@ elif income == "100 to under $150,000": income = 8
 else: income = 9
 
 ## eduction
-if education == "Less than high school (Grades 1-8 or no formal schooling": education = 1
+if education == "Less than high school (Grades 1-8 or no formal schooling)": education = 1
 elif education == "High school incomplete (Grades 9-11 or Grade 12 with NO diploma)": education = 2
 elif education == "High school graduate (Grade 12 with diploma or GED certificate)": education = 3
 elif education == "Some college, no degree (includes some community college)": education = 4
