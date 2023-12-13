@@ -3,6 +3,8 @@ import streamlit as st
 # Headings
 st.markdown("# Welcome! Let's predict the likehood of someone being a LinkedIn User")
 st.markdown("#### Use this application to determine the likelihood of an individual being a LinkedIn user based on certain criteria")
+st.markdown("_Created by Michaela Caudill_")
+
 
 # Getting input for "income","education","parent","married","female","age"
 st.markdown("##### First, we'll need some information...")
